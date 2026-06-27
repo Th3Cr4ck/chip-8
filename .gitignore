@@ -1,3 +1,6 @@
+# App defined
+.cache/
+
 # Prerequisites
 *.d
 
